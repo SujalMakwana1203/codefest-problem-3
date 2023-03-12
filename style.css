@@ -1,0 +1,79 @@
+body{
+    background: #dbeff0;
+}
+.caseless{
+    background-color: orangered;
+    color: white;
+    
+    border-radius: 15px 0 0 15px ;
+}
+.caseless h2{
+    font-size: 600%;
+    text-shadow: 8px 8px rgb(255, 8, 0);
+    padding-left: 20%; 
+}
+.ul{
+    padding-left: 5%;
+}
+.walletbank h3{
+    background-color: orangered;
+    color: white;
+    width: fit-content;
+    padding: 1%;
+}
+.themobile{
+    margin-top: 10%;
+}
+.themobile h3{
+    color: #b7dfe1;
+    font-size: 400%;
+}
+
+.scndprt{
+    text-align: center;
+    font-size: 300%;
+    padding: 5%;
+    font-weight: 600;
+}
+.trd-part{
+    font-size: larger;
+    background-color: #d0e5e6;
+    padding: 3%;
+    border-radius: 15px;
+}
+.trd-part h4{
+    font-weight: 700;
+}
+.trd-part-text{
+    text-align: center;
+}
+.acitivity{
+    margin-top: 20%;
+    font-size: 300%;
+    text-align: justify;
+}
+.btntwo{
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid rgba(255, 255, 255, 0);
+    font-weight: 700;
+    font-size: larger;
+}
+.round{
+    padding: 30%;
+    background-color: orangered;
+    margin: 15%;
+    border-radius: 150%;
+    margin-left: 18%;
+    margin-right: 18%;
+}
+.video{
+    
+    margin : 10% 13% 10% 10%;
+}
+li{
+    list-style: none;
+    display: inline;
+    font-size: 120%;
+    padding: 30px;
+    margin-left: 8%;
+}
