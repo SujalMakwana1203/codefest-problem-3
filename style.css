@@ -9,7 +9,7 @@ body{
 }
 .caseless h2{
     font-size: 600%;
-    text-shadow: 8px 8px rgb(255, 8, 0);
+    text-shadow: 8px 8px rgb(201, 8, 2);
     padding-left: 20%; 
 }
 .ul{
@@ -49,7 +49,7 @@ body{
 }
 .acitivity{
     margin-top: 20%;
-    font-size: 300%;
+    font-size: 250%;
     text-align: justify;
 }
 .btntwo{
@@ -75,5 +75,12 @@ li{
     display: inline;
     font-size: 120%;
     padding: 30px;
+    margin-left: 8%;
+}
+.list2{
+    list-style: none;
+    display: inline;
+    font-size: 100%;
+    padding: 1px;
     margin-left: 8%;
 }
